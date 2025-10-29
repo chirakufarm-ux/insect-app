@@ -6,3 +6,6 @@ ultralytics
 pandas
 tornado==6.3.3
 tqdm
+opencv-python
+seaborn
+numpy
