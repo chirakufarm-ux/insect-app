@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+Pillow
+ultralytics
+pandas
+tornado==6.3.3
+tqdm
